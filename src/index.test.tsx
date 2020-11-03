@@ -1,7 +1,7 @@
-import { ExampleComponent } from '.'
+import { LHCFormComponent } from '.'
 
-describe('ExampleComponent', () => {
+describe('LHCFormComponent', () => {
   it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
+    expect(LHCFormComponent).toBeTruthy()
   })
 })
