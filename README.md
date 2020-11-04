@@ -7,7 +7,7 @@ React component for listing LHC form from GitLab
 Create .npmrc file in the project root and add the following GitHub package registry code in the file.
 
 ```bash
-    npm install @medigy/ux-react-lhc-form
+   @medigy:registry=https://npm.pkg.github.com
 ```
 
 Then, Install from the command line:
